@@ -1,5 +1,4 @@
 
-Aap README file me dark mode enable aur disable button ke liye ye tarah ka content add kar sakte hain:
 
 Dark Mode Enable/Disable Button
 This project includes a feature to enable or disable dark mode. Dark mode provides a visually appealing interface especially in low-light environments. Follow the steps below to toggle dark mode:
